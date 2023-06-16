@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+    <entry key="node_file" type="xstring" value="settings.xml"/>
+    <config key="flow_stack">
+        <config key="Variable_0">
+            <entry key="type" type="xstring" value="variable"/>
+            <entry key="name" type="xstring" value="shapiro-p-value"/>
+            <entry key="class" type="xstring" value="DOUBLE"/>
+            <entry key="value" type="xdouble" value="3.871214255671829E-4"/>
+        </config>
+        <config key="Variable_1">
+            <entry key="type" type="xstring" value="variable"/>
+            <entry key="name" type="xstring" value="shapiro-statistic"/>
+            <entry key="class" type="xstring" value="DOUBLE"/>
+            <entry key="value" type="xdouble" value="0.9570404264566698"/>
+        </config>
+    </config>
+    <config key="internal_node_subsettings">
+        <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+    </config>
+    <config key="model">
+        <config key="Alpha_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_double"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="Alpha" type="xdouble" value="0.05"/>
+        <config key="Used columns_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_columnfilter"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <config key="Used columns">
+            <entry key="filter-type" type="xstring" value="STANDARD"/>
+            <config key="included_names">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Salaire avec variable"/>
+            </config>
+            <config key="excluded_names">
+                <entry key="array-size" type="xint" value="10"/>
+                <entry key="0" type="xstring" value="Telephone"/>
+                <entry key="1" type="xstring" value="Enfants"/>
+                <entry key="2" type="xstring" value="Durée hebdo"/>
+                <entry key="3" type="xstring" value="Salaire base mensuel"/>
+                <entry key="4" type="xstring" value="%variable_moyen"/>
+                <entry key="5" type="xstring" value="Augmentation"/>
+                <entry key="6" type="xstring" value="Ancienneté_an"/>
+                <entry key="7" type="xstring" value="Distance domicile/Travail"/>
+                <entry key="8" type="xstring" value="Niveau de satisfaction"/>
+                <entry key="9" type="xstring" value="Age"/>
+            </config>
+            <entry key="enforce_option" type="xstring" value="EnforceExclusion"/>
+            <config key="name_pattern">
+                <entry key="pattern" type="xstring" value=""/>
+                <entry key="type" type="xstring" value="Wildcard"/>
+                <entry key="caseSensitive" type="xboolean" value="true"/>
+                <entry key="excludeMatching" type="xboolean" value="false"/>
+            </config>
+            <config key="datatype">
+                <config key="typelist">
+                    <entry key="org.knime.core.data.IntValue" type="xboolean" value="false"/>
+                    <entry key="org.knime.core.data.DoubleValue" type="xboolean" value="false"/>
+                    <entry key="org.knime.core.data.LongValue" type="xboolean" value="false"/>
+                </config>
+            </config>
+        </config>
+        <config key="shapFrancia_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="shapFrancia" type="xboolean" value="true"/>
+    </config>
+    <entry key="customDescription" type="xstring" value="Le sous groupe de suit pas une loi normale, un des prérequis du test de Student n'est pas validé.%%00013%%00010On passe donc le test statistique de Mann-Whitney qui est la version non paramétrique du test de Student."/>
+    <entry key="state" type="xstring" value="EXECUTED"/>
+    <config key="nodecontainer_message">
+        <entry key="type" type="xstring" value="WARNING"/>
+        <entry key="message" type="xstring" value="The test might be inaccurate for data sets with more than 50 data points."/>
+    </config>
+    <entry key="factory" type="xstring" value="org.knime.base.node.stats.shapirowilk2.ShapiroWilk2NodeFactory"/>
+    <entry key="node-name" type="xstring" value="Shapiro-Wilk Test"/>
+    <entry key="node-bundle-name" type="xstring" value="KNIME Statistic Nodes (Labs)"/>
+    <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.stats2"/>
+    <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+    <entry key="node-bundle-version" type="xstring" value="4.7.0.v202206271529"/>
+    <entry key="node-feature-name" type="xstring" value="KNIME Statistics Nodes (Labs)"/>
+    <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.stats2.feature.group"/>
+    <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+    <entry key="node-feature-version" type="xstring" value="4.7.0.v202211090004"/>
+    <config key="factory_settings"/>
+    <entry key="name" type="xstring" value="Shapiro-Wilk Test"/>
+    <entry key="hasContent" type="xboolean" value="true"/>
+    <entry key="isInactive" type="xboolean" value="false"/>
+    <config key="ports">
+        <config key="port_1">
+            <entry key="index" type="xint" value="1"/>
+            <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+            <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 1, Cols: 3"/>
+            <entry key="port_dir_location" type="xstring" value="port_1"/>
+        </config>
+    </config>
+    <config key="filestores">
+        <entry key="file_store_location" type="xstring" isnull="true" value=""/>
+        <entry key="file_store_id" type="xstring" value="3e7a7f43-b11f-4c9a-8d60-63b4017d84b2"/>
+    </config>
+</config>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+    <entry key="node_file" type="xstring" value="settings.xml"/>
+    <config key="flow_stack"/>
+    <config key="internal_node_subsettings">
+        <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+    </config>
+    <config key="model">
+        <config key="group_a_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="group_a" type="xstring" value="F"/>
+        <config key="group_b_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="group_b" type="xstring" value="H"/>
+        <config key="group_column_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="group_column" type="xstring" value="Sexe"/>
+        <config key="test_column_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="test_column" type="xstring" value="Salaire avec variable"/>
+        <config key="missing_value_handling_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="missing_value_handling" type="xstring" value="Failed"/>
+    </config>
+    <entry key="customDescription" type="xstring" value="pvalue = 0.75 &gt; alpha%%00013%%00010On ne peut pas rejeté H0.%%00013%%00010On considère que les distributions des 2 sous groupes sont les mêmes et donc que la rémunération ne dépend pas du sexe."/>
+    <entry key="state" type="xstring" value="EXECUTED"/>
+    <entry key="factory" type="xstring" value="org.knime.base.node.stats.testing.wilcoxonmannwhitney.WilcoxonMannWhitneyNodeFactory"/>
+    <entry key="node-name" type="xstring" value="Wilcoxon-Mann-Whitney Test"/>
+    <entry key="node-bundle-name" type="xstring" value="KNIME Statistic Nodes (Labs)"/>
+    <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.stats2"/>
+    <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+    <entry key="node-bundle-version" type="xstring" value="4.7.0.v202206271529"/>
+    <entry key="node-feature-name" type="xstring" value="KNIME Statistics Nodes (Labs)"/>
+    <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.stats2.feature.group"/>
+    <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+    <entry key="node-feature-version" type="xstring" value="4.7.0.v202211090004"/>
+    <config key="factory_settings"/>
+    <entry key="name" type="xstring" value="Wilcoxon-Mann-Whitney Test"/>
+    <entry key="hasContent" type="xboolean" value="true"/>
+    <entry key="isInactive" type="xboolean" value="false"/>
+    <config key="ports">
+        <config key="port_1">
+            <entry key="index" type="xint" value="1"/>
+            <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+            <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 1, Cols: 7"/>
+            <entry key="port_dir_location" type="xstring" value="port_1"/>
+        </config>
+    </config>
+    <config key="filestores">
+        <entry key="file_store_location" type="xstring" isnull="true" value=""/>
+        <entry key="file_store_id" type="xstring" value="923d423d-fb87-4afd-84c9-1986e943cc6b"/>
+    </config>
+</config>
