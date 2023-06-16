@@ -5,7 +5,7 @@ Je vais les présenter dans ce repository et je fournirais le code ou le fichier
 Je commence par la projet 2 car le premier projet était méthodologique.
 
 Voici l'intitulé de chacun des projets :
-- Projet 2 : Faites une analyse des ventes pour un e-commerce
+- [Projet 2 : Faites une analyse des ventes pour un e-commerce](https://github.com/raphaelbelleil/Projets_Data/tree/main/Projet%202)
 - Projet 3 : Créez et utilisez une base de données immobilière avec SQL
 - Projet 4 : Réalisez une étude de santé publique avec Python
 - Projet 5 : Optimisez la gestion des données d'une boutique avec Python
