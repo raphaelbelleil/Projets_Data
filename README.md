@@ -2,21 +2,22 @@
 
 Pendant ma formation de Data Analyst, j'ai réalisé 9 projets professionnalisants portant sur différents sujets.
 Je vais les présenter dans ce repository et je fournirais le code ou le fichier projet du logiciel pour les projets Tableau ou Knime.
+Je commence par la projet 2 car le premier projet était méthodologique.
 
 Voici l'intitulé de chacun des projets :
-- Projet 1 : Faites une analyse des ventes pour un e-commerce
-- Projet 2 : Créez et utilisez une base de données immobilière avec SQL
-- Projet 3 : Réalisez une étude de santé publique avec Python
-- Projet 4 : Optimisez la gestion des données d'une boutique avec Python
-- Projet 5 : Analysez les ventes d'une librairie avec Python
-- Projet 6 : Analysez des indicateurs de l'égalité femme-homme avec Knime
-- Projet 7 : Faites une étude sur l'eau potable avec Tableau
-- Projet 8 : Produisez une étude de marché avec Python
-- Projet 9 : Détectez des faux billets avec Python
+- Projet 2 : Faites une analyse des ventes pour un e-commerce
+- Projet 3 : Créez et utilisez une base de données immobilière avec SQL
+- Projet 4 : Réalisez une étude de santé publique avec Python
+- Projet 5 : Optimisez la gestion des données d'une boutique avec Python
+- Projet 6 : Analysez les ventes d'une librairie avec Python
+- Projet 7 : Analysez des indicateurs de l'égalité femme-homme avec Knime
+- Projet 8 : Faites une étude sur l'eau potable avec Tableau
+- Projet 9 : Produisez une étude de marché avec Python
+- Projet 10 : Détectez des faux billets avec Python
 
 Voici une présentation détaillée plus détaillée des projets avec leurs objectifs, étapes principales et réalisations.
 
-## Projet 1 : Faites une analyse des ventes pour un e-commerce
+## Projet 2 : Faites une analyse des ventes pour un e-commerce
 
 - Générer des graphiques adaptés aux types de données (courbe, diagramme en barre, histogramme, boîte à moustache, nuage de points...)
 - Synthétiser des résultats à destination d'un client
@@ -25,7 +26,7 @@ Voici une présentation détaillée plus détaillée des projets avec leurs obje
 
 
 
-## Projet 2 : Créez et utilisez une base de données immobilière avec SQL
+## Projet 3 : Créez et utilisez une base de données immobilière avec SQL
 
 - Extraire les données nécessaires à l’analyse.
 - Définir des règles de gestion de nettoyage des bases de données (formatage, suppression des doublons, typage valeurs aberrantes…).
@@ -38,7 +39,7 @@ Voici une présentation détaillée plus détaillée des projets avec leurs obje
 
 
 
-## Projet 3 : Réalisez une étude de santé publique avec Python
+## Projet 4 : Réalisez une étude de santé publique avec Python
 Analyse des ressources alimentaires au niveau mondial
 
 - Extraction des données du site de la FAO
@@ -51,7 +52,7 @@ Analyse des ressources alimentaires au niveau mondial
 
 
 
-## Projet 4 : Optimisez la gestion des données d'une boutique avec Python
+## Projet 5 : Optimisez la gestion des données d'une boutique avec Python
 
 - Nettoyage, préparation et exploration des données (gestion types, doublons, valeurs manquantes)
 - Analyse univariée : décrire la répartition d'une variable
@@ -67,7 +68,7 @@ Analyse des ressources alimentaires au niveau mondial
 
 
 
-## Projet 5 : Analysez les ventes d'une librairie avec Python
+## Projet 6 : Analysez les ventes d'une librairie avec Python
 
 1.	Analyse générale des données de ventes (Chiffre d'affaires, produits, clients...)
 2.	Analyse du comportement des clients en ligne en étudiant les liens en plusieurs variables
@@ -93,7 +94,7 @@ Analyse des ressources alimentaires au niveau mondial
 - Utilisation de numpy, pandas, scipy, matplotlib, seaborn
 
 
-## Projet 6 : Analysez des indicateurs de l'égalité femme-homme avec Knime
+## Projet 7 : Analysez des indicateurs de l'égalité femme-homme avec Knime
 
 1.	Mettre en place un processus ETL
 2.	Collecter des données en respectant le RGPD
@@ -107,7 +108,7 @@ Créer un workflow sur Knime qui :
 - Transfert le fichier pour des analyses sur Tableau
 
 
-## Projet 7 : Faites une étude sur l'eau potable avec Tableau
+## Projet 8 : Faites une étude sur l'eau potable avec Tableau
 Aider un investisseur sur un projet d'infrastructure lié à la gestion de l'eau
 
 1.	Synthétiser des résultats à destination d'un client
@@ -125,7 +126,7 @@ Aider un investisseur sur un projet d'infrastructure lié à la gestion de l'eau
 
 
 
-## Projet 8 : Produisez une étude de marché avec Python
+## Projet 9 : Produisez une étude de marché avec Python
 Déterminer quel pays peut convenir pour exporter son entreprise
 
 Création de son jeu de données :
@@ -144,7 +145,7 @@ Analyse :
 Proposition de pays pour la nouvelle implantation de l'entreprise.
 
 
-## Projet 9 : Détectez des faux billets avec Python
+## Projet 10 : Détectez des faux billets avec Python
 - Réaliser une analyse prédictive
 - Réaliser une régression logistique
 - Réaliser une régression linéaire
