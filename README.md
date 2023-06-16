@@ -6,14 +6,14 @@ Je commence par la projet 2 car le premier projet était méthodologique.
 
 Voici l'intitulé de chacun des projets :
 - [Projet 2 : Faites une analyse des ventes pour un e-commerce](https://github.com/raphaelbelleil/Projets_Data/tree/main/Projet%202)
-- Projet 3 : Créez et utilisez une base de données immobilière avec SQL
-- Projet 4 : Réalisez une étude de santé publique avec Python
-- Projet 5 : Optimisez la gestion des données d'une boutique avec Python
-- Projet 6 : Analysez les ventes d'une librairie avec Python
-- Projet 7 : Analysez des indicateurs de l'égalité femme-homme avec Knime
-- Projet 8 : Faites une étude sur l'eau potable avec Tableau
-- Projet 9 : Produisez une étude de marché avec Python
-- Projet 10 : Détectez des faux billets avec Python
+- [Projet 3 : Créez et utilisez une base de données immobilière avec SQL](https://github.com/raphaelbelleil/Projets_Data/tree/main/Projet%203)
+- [Projet 4 : Réalisez une étude de santé publique avec Python](https://github.com/raphaelbelleil/Projets_Data/tree/main/Projet%204)
+- [Projet 5 : Optimisez la gestion des données d'une boutique avec Python](https://github.com/raphaelbelleil/Projets_Data/tree/main/Projet%205)
+- [Projet 6 : Analysez les ventes d'une librairie avec Python](https://github.com/raphaelbelleil/Projets_Data/tree/main/Projet%206)
+- [Projet 7 : Analysez des indicateurs de l'égalité femme-homme avec Knime](https://github.com/raphaelbelleil/Projets_Data/tree/main/Projet%207)
+- [Projet 8 : Faites une étude sur l'eau potable avec Tableau](https://github.com/raphaelbelleil/Projets_Data/tree/main/Projet%208)
+- [Projet 9 : Produisez une étude de marché avec Python]
+- [Projet 10 : Détectez des faux billets avec Python]
 
 Voici une présentation détaillée plus détaillée des projets avec leurs objectifs, étapes principales et réalisations.
 
