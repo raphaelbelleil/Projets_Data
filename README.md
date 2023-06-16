@@ -18,23 +18,23 @@ Voici la présentation détaillée des projets avec leurs objectifs, étapes pri
 
 ## Projet 2 : Faites une analyse des ventes pour un e-commerce
 
-  •	Générer des graphiques adaptés aux types de données (courbe, diagramme en barre, histogramme, boîte à moustache, nuage de points...)
-  •	Synthétiser des résultats à destination d'un client
-  •	Interpréter les informations provenant d'un dashboard
-  •	Utiliser des fonctionnalités avancées d'Excel
+- Générer des graphiques adaptés aux types de données (courbe, diagramme en barre, histogramme, boîte à moustache, nuage de points...)
+- Synthétiser des résultats à destination d'un client
+- Interpréter les informations provenant d'un dashboard
+- Utiliser des fonctionnalités avancées d'Excel
 
 
 
 ## Projet 3 : Créez et utilisez une base de données immobilière avec SQL
 
-  •	Extraire les données nécessaires à l’analyse.
-  •	Définir des règles de gestion de nettoyage des bases de données (formatage, suppression des doublons, typage valeurs aberrantes…).
-  •	Définir des règles de gestion de structuration des différentes bases de données entre elles.
-  •	Création d'un schéma relationnel sur PostgreSQL en respectant la 3NF.
-  •	Création des fichiers à intégrer dans les tables.
-  •	Création de la base de données (tables, champs, clés primaires et étrangères, contraintes, index)
-  •	Importation des données dans les tables.
-  •	Requêtage des données (jointure, requêtes imbriquées, Windows fonctions, création de vues, champs calculés...).
+- Extraire les données nécessaires à l’analyse.
+- Définir des règles de gestion de nettoyage des bases de données (formatage, suppression des doublons, typage valeurs aberrantes…).
+- Définir des règles de gestion de structuration des différentes bases de données entre elles.
+- Création d'un schéma relationnel sur PostgreSQL en respectant la 3NF.
+- Création des fichiers à intégrer dans les tables.
+- Création de la base de données (tables, champs, clés primaires et étrangères, contraintes, index)
+- Importation des données dans les tables.
+- Requêtage des données (jointure, requêtes imbriquées, Windows fonctions, création de vues, champs calculés...).
 
 
 
