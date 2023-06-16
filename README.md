@@ -14,7 +14,7 @@ Voici l'intitulé de chacun des projets :
 - Projet 8 : Produisez une étude de marché avec Python
 - Projet 9 : Détectez des faux billets avec Python
 
-Voici la présentation détaillée des projets avec leurs objectifs, étapes principales et réalisations.
+Voici une présentation détaillée plus détaillée des projets avec leurs objectifs, étapes principales et réalisations.
 
 ## Projet 1 : Faites une analyse des ventes pour un e-commerce
 
