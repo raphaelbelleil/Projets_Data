@@ -1,4 +1,4 @@
-# Projets_Data
+# Projets Data Analyst
 
 Pendant ma formation de Data Analyst, j'ai réalisé 9 projets professionnalisants portant sur différents sujets.
 Je vais les présenter dans ce repository et je fournirais le code ou le fichier projet du logiciel pour les projets Tableau ou Knime.
