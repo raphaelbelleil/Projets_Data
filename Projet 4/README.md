@@ -1,4 +1,4 @@
-# Optimisez la gestion des données d'une boutique avec Python
+# Réalisez une étude de santé publique avec Python
 
 ## Scénario
 
@@ -6,10 +6,10 @@
 
 ## Compétences évaluées
 
-:bulb: Gérer les erreurs et les incohérences
+:bulb: Rédiger et présenter une méthodologie d'exploration et d'analyse des données
 
-:bulb: Classifier différents types de données
+:bulb: Utiliser des librairies spécialisées pour les traitements data
 
-:bulb: Réaliser une analyse univariée pour interpréter des données
+:bulb: Manipuler des DataFrames
 
 
