@@ -1,4 +1,4 @@
-# Analysez les ventes d'une librairie avec Python
+# Optimisez la gestion des données d'une boutique avec Python
 
 ## Scénario
 
@@ -6,11 +6,11 @@
 
 ## Compétences évaluées
 
-:bulb: Réaliser des tests statistiques
+:bulb: Gérer les erreurs et les incohérences
 
-:bulb: Réaliser une analyse bivariée pour interpréter des données
+:bulb: Classifier différents types de données
 
-:bulb: Analyser des séries temporelles
+:bulb: Réaliser une analyse univariée pour interpréter des données
 
 
 
