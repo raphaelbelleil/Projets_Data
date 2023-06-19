@@ -4,7 +4,7 @@ Tout le projet est dans un même notebook jupyter.
 ## Contexte
 Le projet consiste à analyser les ventes en ligne d'un marchand de vin, de regrouper plusieurs sources de données (erp et web) et de réaliser l'analyse univariée des prix des produits.
 
-## Etapes du projet
+## Etapes
 - Nettoyage, préparation et exploration des données (gestion types, doublons, valeurs manquantes)
 - Analyse univariée : décrire la répartition d'une variable
     -	Mesures de tendance centrale (moyenne, mode, médiane, moyenne tronquée...), 
