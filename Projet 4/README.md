@@ -4,7 +4,7 @@ Le projet contient un notebook jupyter de nettoyage des données et un autre pou
 ## Contexte
 Le projet consiste à faire une analyse des ressources alimentaires au niveau mondial grâce à des données publiques de la FAO et à obtenir des informations sur les pays les plus dans le besoin au niveau de l'alimentation.
 
-## Etapes du projet
+## Etapes
 - Extraction des données du site de la FAO
 - Nettoyage, préparation et exploration des données
 - Analyse des données : pays, population, disponibilité alimentaire, aide alimentaire, sous-nutrition
@@ -13,7 +13,7 @@ Le projet consiste à faire une analyse des ressources alimentaires au niveau mo
 - Rédaction et présentation d'une méthodologie d'exploration et d'analyse des données
 - Manipulation des DataFrames
 
-## Compétences évaluées
+## Compétences
 
 :bulb: Rédiger et présenter une méthodologie d'exploration et d'analyse des données
 
