@@ -1,4 +1,5 @@
 # Réalisez une étude de santé publique avec Python
+Le projet contient un notebook jupyter de nettoyage des données et un autre pour l'anayse.
 
 ## Contexte
 Le projet consiste à faire une analyse des ressources alimentaires au niveau mondial grâce à des données publiques de la FAO et à obtenir des informations sur les pays les plus dans le besoin au niveau de l'alimentation.
