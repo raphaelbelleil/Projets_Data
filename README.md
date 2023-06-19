@@ -1,7 +1,7 @@
 # Projets Data Analyst
 
 Pendant ma formation de Data Analyst, j'ai réalisé 9 projets portant sur différents sujets.
-Je vais les présenter et je fournirais le code ou le fichier projet du logiciel pour les projets Tableau et Knime.
+Je vais les présenter et je fournirais les réalisations associées au projet (code ou fichier logiciel).
 
 Les intitulés des projets sont :
 - [Projet 2 : Faites une analyse des ventes pour un e-commerce](https://github.com/raphaelbelleil/Projets_Data/tree/main/Projet%202)
