@@ -1,10 +1,9 @@
 # Projets Data Analyst
 
-Pendant ma formation de Data Analyst, j'ai réalisé 9 projets professionnalisants portant sur différents sujets.
-Je vais les présenter dans ce repository et je fournirais le code ou le fichier projet du logiciel pour les projets Tableau ou Knime.
-Je commence par la projet 2 car le premier projet était méthodologique.
+Pendant ma formation de Data Analyst, j'ai réalisé 9 projets portant sur différents sujets.
+Je vais les présenter et je fournirais le code ou le fichier projet du logiciel pour les projets Tableau et Knime.
 
-Voici l'intitulé de chacun des projets :
+Les intitulés des projets sont :
 - [Projet 2 : Faites une analyse des ventes pour un e-commerce](https://github.com/raphaelbelleil/Projets_Data/tree/main/Projet%202)
 - [Projet 3 : Créez et utilisez une base de données immobilière avec SQL](https://github.com/raphaelbelleil/Projets_Data/tree/main/Projet%203)
 - [Projet 4 : Réalisez une étude de santé publique avec Python](https://github.com/raphaelbelleil/Projets_Data/tree/main/Projet%204)
@@ -13,20 +12,18 @@ Voici l'intitulé de chacun des projets :
 - [Projet 7 : Analysez des indicateurs de l'égalité femme-homme avec Knime](https://github.com/raphaelbelleil/Projets_Data/tree/main/Projet%207)
 - [Projet 8 : Faites une étude sur l'eau potable avec Tableau](https://github.com/raphaelbelleil/Projets_Data/tree/main/Projet%208)
 - [Projet 9 : Produisez une étude de marché avec Python](https://github.com/raphaelbelleil/Projets_Data/tree/main/Projet%209)
-- [Projet 10 : Détectez des faux billets avec Python](https://github.com/raphaelbelleil/Projets_Data/tree/main/Projet%210)
+- [Projet 10 : Détectez des faux billets avec Python](https://github.com/raphaelbelleil/Projets_Data/tree/main/Projet%2010)
 
-Voici une présentation plus détaillée des projets avec leurs objectifs, étapes principales et réalisations.
+Voici une rapide présentation des projets.
 
 ## Projet 2 : Faites une analyse des ventes pour un e-commerce
 
-- Générer des graphiques adaptés aux types de données (courbe, diagramme en barre, histogramme, boîte à moustache, nuage de points...)
-- Synthétiser des résultats à destination d'un client
-- Interpréter les informations provenant d'un dashboard
-- Utiliser des fonctionnalités avancées d'Excel
-
-
+Analyser et présenter les ventes d'un site de e-commerce.
+Réaliser un tableau de bord sur les ventes des clients affiliés avec Excel.
 
 ## Projet 3 : Créez et utilisez une base de données immobilière avec SQL
+
+Créer une base de données immobilière avec des données publiques et PostgreSQL pour obtenir des informations sur le marché de l'immobilier en France.
 
 - Extraire les données nécessaires à l’analyse.
 - Définir des règles de gestion de nettoyage des bases de données (formatage, suppression des doublons, typage valeurs aberrantes…).
@@ -35,7 +32,7 @@ Voici une présentation plus détaillée des projets avec leurs objectifs, étap
 - Création des fichiers à intégrer dans les tables.
 - Création de la base de données (tables, champs, clés primaires et étrangères, contraintes, index)
 - Importation des données dans les tables.
-- Requêtage des données (jointure, requêtes imbriquées, Windows fonctions, création de vues, champs calculés...).
+- Requêtage des données (jointure, requêtes imbriquées, Windows fonctions, création de vues, champs calculés...) pour obtenir des informations sur le marché de l'immobilier en France.
 
 
 
