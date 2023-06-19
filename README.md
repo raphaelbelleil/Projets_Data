@@ -21,6 +21,11 @@ Voici une rapide présentation des projets.
 Analyser et présenter les ventes d'un site de e-commerce.
 Réaliser un tableau de bord sur les ventes des clients affiliés avec Excel.
 
+- Générer des graphiques adaptés aux types de données (courbe, diagramme en barre, histogramme, boîte à moustache, nuage de points...)
+- Synthétiser des résultats à destination d'un client
+- Interpréter les informations provenant d'un dashboard
+- Utiliser des fonctionnalités avancées d'Excel
+
 ## Projet 3 : Créez et utilisez une base de données immobilière avec SQL
 
 Créer une base de données immobilière avec des données publiques et PostgreSQL pour obtenir des informations sur le marché de l'immobilier en France.
@@ -37,7 +42,9 @@ Créer une base de données immobilière avec des données publiques et PostgreS
 
 
 ## Projet 4 : Réalisez une étude de santé publique avec Python
-Analyse des ressources alimentaires au niveau mondial
+
+Analyse des ressources alimentaires au niveau mondial grâce à des données publiques de la FAO.
+Obtenir des informations sur les pays les plus dans le besoin en terme de nourriture grâce des données de population, aides alimentaires, disponibilité alimentaire et sous nutrition.
 
 - Extraction des données du site de la FAO
 - Nettoyage, préparation et exploration des données
@@ -50,6 +57,8 @@ Analyse des ressources alimentaires au niveau mondial
 
 
 ## Projet 5 : Optimisez la gestion des données d'une boutique avec Python
+
+Analyser les données de ventes d'un vendeur de vin et réaliser l'analyse univariée du prix des produits.
 
 - Nettoyage, préparation et exploration des données (gestion types, doublons, valeurs manquantes)
 - Analyse univariée : décrire la répartition d'une variable
@@ -67,8 +76,8 @@ Analyse des ressources alimentaires au niveau mondial
 
 ## Projet 6 : Analysez les ventes d'une librairie avec Python
 
-1.	Analyse générale des données de ventes (Chiffre d'affaires, produits, clients...)
-2.	Analyse du comportement des clients en ligne en étudiant les liens en plusieurs variables
+1.	Analyse générale des données de ventes (Chiffre d'affaires, produits, clients...).
+2.	Analyse du comportement des clients en ligne en étudiant les liens en plusieurs variables.
 
 1.	Analyse générale :
 - Nettoyage, préparation et exploration des données (gestion types, doublons, valeurs manquantes, valeurs aberrantes)
@@ -93,6 +102,8 @@ Analyse des ressources alimentaires au niveau mondial
 
 ## Projet 7 : Analysez des indicateurs de l'égalité femme-homme avec Knime
 
+Automatiser la réalisation d'un rapport sur l'égalité Homme/Femme avec Knime avec des données RH et l'outil Diagnostic Egalité.
+
 1.	Mettre en place un processus ETL
 2.	Collecter des données en respectant le RGPD
 3.	Préparer des données pour l'analyse en respectant les normes internes à l’entreprise
@@ -106,7 +117,7 @@ Créer un workflow sur Knime qui :
 
 
 ## Projet 8 : Faites une étude sur l'eau potable avec Tableau
-Aider un investisseur sur un projet d'infrastructure lié à la gestion de l'eau
+Aider un investisseur sur un projet d'infrastructure lié à la gestion de l'eau.
 
 1.	Synthétiser des résultats à destination d'un client
 2.	Créer un tableau de bord répondant à des questions analytiques
@@ -124,7 +135,8 @@ Aider un investisseur sur un projet d'infrastructure lié à la gestion de l'eau
 
 
 ## Projet 9 : Produisez une étude de marché avec Python
-Déterminer quel pays peut convenir pour exporter son entreprise
+
+Déterminer quel pays peut convenir pour exporter son entreprise en fonction de données économiques, sociales et politiques.
 
 Création de son jeu de données :
 - Analyse Pestel : choix des variables pertinentes à ajouter
