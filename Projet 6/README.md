@@ -1,4 +1,6 @@
 # Analysez les ventes d'une librairie avec Python
+Le projet contient un notebook de nettoyage des données, un autre pour l'analyse et un fichier python pour certaines fonctions.
+
 
 ## Contexte
 Le projet consiste à analyser les ventes en ligne d'une librairie.
