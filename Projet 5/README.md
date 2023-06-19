@@ -17,13 +17,17 @@ Le projet consiste à analyser les ventes en ligne d'un marchand de vin, de regr
 - Tests paramétriques et non paramétriques
 - Création de fonctions de synthèse automatisant toute l'analyse univariée
 
-## Compétences misent en oeuvre
+## Compétences
 
 :bulb: Gérer les erreurs et les incohérences
 
 :bulb: Classifier différents types de données
 
 :bulb: Réaliser une analyse univariée pour interpréter des données
+
+## Environnement technique :
+- Python (numpy, pandas, matplotlib, seaborn, scipy)
+- Jupyter notebook
 
 
 
