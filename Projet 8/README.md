@@ -1,4 +1,6 @@
 # Faites une étude sur l'eau potable avec Tableau
+Le fichier .twd est le fichier Tableau.
+Voici également le [lien Tableau Public](https://github.com/raphaelbelleil/Projets_Data/assets/123098267/ca259e89-5722-49a4-8591-18ae04609123) pour visualiser le tableau de bord en ligne.
 
 ## Contexte
 Le projet a pour objectif d'aider un investisseur à prendre une décision sur un projet d'infrastructure lié à la gestion de l'eau.
