@@ -13,6 +13,7 @@ Les intitulés des projets sont :
 - [Projet 8 : Faites une étude sur l'eau potable avec Tableau](https://github.com/raphaelbelleil/Projets_Data/tree/main/Projet%208)
 - [Projet 9 : Produisez une étude de marché avec Python](https://github.com/raphaelbelleil/Projets_Data/tree/main/Projet%209)
 - [Projet 10 : Détectez des faux billets avec Python](https://github.com/raphaelbelleil/Projets_Data/tree/main/Projet%2010)
+- [Projet Bonus : Anticipez les besoins en consommation de bâtiments](https://github.com/raphaelbelleil/Projets_Data/tree/main/Projet%20Bonus)
 
 Voici une rapide présentation des projets.
 
@@ -133,7 +134,6 @@ Aider un investisseur sur un projet d'infrastructure lié à la gestion de l'eau
 - Création de 3 vues nationales permettant de filtrer les pays suivants différents critères 
 
 
-
 ## Projet 9 : Produisez une étude de marché avec Python
 
 Déterminer quel pays peut convenir pour exporter son entreprise en fonction de données économiques, sociales et politiques.
@@ -155,9 +155,21 @@ Proposition de pays pour la nouvelle implantation de l'entreprise.
 
 
 ## Projet 10 : Détectez des faux billets avec Python
+
+Créer un modèle qui détermine si un billet est vrai ou faux.
+
 - Réaliser une analyse prédictive
-- Réaliser une régression logistique
-- Réaliser une régression linéaire
+- Réaliser une régression logistique et un Kmeans
+- Mesurer la performance de son modèle
+- Réaliser une régression linéaire pour faire de l'imputation
 - Opérer des classifications automatiques pour partitionner les données
 
 
+## Projet Bonus : Anticipez les besoins en consommation de bâtiments
+
+Créer un modèle qui prédit la consommation en énergie des bâtiments de Seattle.
+
+- Adapter les hyperparamètres d'un algorithme d'apprentissage supervisé afin de l'améliorer
+- Évaluer les performances d’un modèle d'apprentissage supervisé
+- Mettre en place le modèle d'apprentissage supervisé adapté au problème métier
+- Transformer les variables pertinentes d'un modèle d'apprentissage supervisé
