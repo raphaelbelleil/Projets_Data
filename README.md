@@ -166,7 +166,7 @@ Créer un modèle qui détermine si un billet est vrai ou faux.
 
 ## Projet Bonus : Anticipez les besoins en consommation de bâtiments
 
-Créer un modèle qui prédit la consommation en énergie des bâtiments.
+Créer un modèle qui prédit la consommation en énergie des bâtiments de Seattle.
 
 - Adapter les hyperparamètres d'un algorithme d'apprentissage supervisé afin de l'améliorer
 - Évaluer les performances d’un modèle d'apprentissage supervisé
