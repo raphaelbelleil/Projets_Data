@@ -133,7 +133,6 @@ Aider un investisseur sur un projet d'infrastructure lié à la gestion de l'eau
 - Création de 3 vues nationales permettant de filtrer les pays suivants différents critères 
 
 
-
 ## Projet 9 : Produisez une étude de marché avec Python
 
 Déterminer quel pays peut convenir pour exporter son entreprise en fonction de données économiques, sociales et politiques.
@@ -165,3 +164,11 @@ Créer un modèle qui détermine si un billet est vrai ou faux.
 - Opérer des classifications automatiques pour partitionner les données
 
 
+## Projet Bonus : Anticipez les besoins en consommation de bâtiments
+
+Créer un modèle qui prédit la consommation en énergie des bâtiments.
+
+- Adapter les hyperparamètres d'un algorithme d'apprentissage supervisé afin de l'améliorer
+- Évaluer les performances d’un modèle d'apprentissage supervisé
+- Mettre en place le modèle d'apprentissage supervisé adapté au problème métier
+- Transformer les variables pertinentes d'un modèle d'apprentissage supervisé
