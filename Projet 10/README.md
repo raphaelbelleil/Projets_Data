@@ -7,7 +7,7 @@ On imputera les valeurs manquantes grâce à une régression linéaire multiple 
 ## Etapes du projet
 - Nettoyage des données
 - Traitement des valeurs manquantes avec la régression linéaire
-- Exploration (analyses univariées, matrice de corrélation, test d'hypothèse 
+- Exploration (analyses univariées, matrice de corrélation, test d'hypothèse )
 - Création du modèle de Régression Logistique, courbe ROC
 - Kmeans
 - Validation du modèle
