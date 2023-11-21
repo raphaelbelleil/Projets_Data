@@ -155,9 +155,13 @@ Proposition de pays pour la nouvelle implantation de l'entreprise.
 
 
 ## Projet 10 : Détectez des faux billets avec Python
+
+Créer un modèle qui détermine si un billet est vrai ou faux.
+
 - Réaliser une analyse prédictive
-- Réaliser une régression logistique
-- Réaliser une régression linéaire
+- Réaliser une régression logistique et un Kmeans
+- Mesurer la performance de son modèle
+- Réaliser une régression linéaire pour faire de l'imputation
 - Opérer des classifications automatiques pour partitionner les données
 
 
