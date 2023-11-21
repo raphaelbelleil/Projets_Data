@@ -13,6 +13,7 @@ Les intitulés des projets sont :
 - [Projet 8 : Faites une étude sur l'eau potable avec Tableau](https://github.com/raphaelbelleil/Projets_Data/tree/main/Projet%208)
 - [Projet 9 : Produisez une étude de marché avec Python](https://github.com/raphaelbelleil/Projets_Data/tree/main/Projet%209)
 - [Projet 10 : Détectez des faux billets avec Python](https://github.com/raphaelbelleil/Projets_Data/tree/main/Projet%2010)
+- [Projet Bonus : Anticipez les besoins en consommation de bâtiments](https://github.com/raphaelbelleil/Projets_Data/tree/main/Projet%20Bonus)
 
 Voici une rapide présentation des projets.
 
