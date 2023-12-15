@@ -1,6 +1,6 @@
 # Projets Data Analyst
 
-Pendant ma formation de Data Analyst, j'ai réalisé 9 projets portant sur différents sujets.
+Pendant ma formation de Data Analyst, j'ai réalisé 10 projets portant sur différents sujets.
 Je vais les présenter et je fournirais les réalisations associées au projet (code ou fichier logiciel).
 
 Les intitulés des projets sont :
