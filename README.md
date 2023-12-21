@@ -74,6 +74,7 @@ Analyser les données de ventes d'un vendeur de vin et réaliser l'analyse univa
 - Création de fonctions de synthèse automatisant toute l'analyse univariée
 
 
+![jupyter_blog_4-75-1024x562-1](https://github.com/raphaelbelleil/Projets_Data/assets/123098267/c5afdf7e-0f53-42e2-a2cf-1ef5eaca5097)
 
 ## Projet 6 : Analysez les ventes d'une librairie avec Python
 
