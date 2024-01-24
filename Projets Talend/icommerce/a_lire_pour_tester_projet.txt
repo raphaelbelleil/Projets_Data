@@ -1,0 +1,21 @@
+Vous pouvez lire "presentation_projet_icommerce.pdf" pour avoir une vue globale du projet.
+
+Pour tester le projet, voici les étapes :
+
+1) Répertoire de données du jour
+- Créez le répertoire contenant les données : D:/Formation Talend/Projet/ICOMMERCE/20240117/
+- Mettez le répertoire où vous voulez mais finissez par /ICOMMERCE/20240117/
+- 20240117 représente 17/01/2024
+- Pour tester bien mettre cette date pour que le job Talend fonctionne
+- Placez les 6 fichiers csv dans ce dossier
+
+2) Base de données 
+- Création de la base de données « COM_INGESTION_DB » dans PostgreSQL
+- Création du schéma « VENTE_ODS » et des tables « ODS_CATEGORIE », « ODS_SOUS_CATEGORIE », « ODS_PRODUIT », « ODS_TYPE_CLIENT », « ODS_CLIENT », « ODS_VENTE » et « ODS_REJET ». (EXECUTION de « script_create_table_VENTE_ODS.sql »)
+- Création du schéma « PARAMS_LOG » et de la table CONTEXTE, qui contient toutes les variables de contexte, et intégration des variables de contexte. (EXECUTION de « script_create_table_PARAMS_CONFIG.sql » en modifiant les valeurs, en particulier le « password » et le « projectFolder » en fonction d'où vous avez enregistrez vos fichiers plats.)
+- Vous pouvez tester votre base de données avec les requêtes du fichiers "requete_bdd.sql"
+
+3) Intégration du projet Talend
+- Création du projet en important l'archive "projet_icommerce.zip" dans Talend
+- Modifiez les groupes de contexte "connexionODS", "connexionParams" et "projectVariable" avec les paramètres de votre base de données.
+- Lancez le job principal jChargeODS pour tester l'intégration des données dans la base de données
